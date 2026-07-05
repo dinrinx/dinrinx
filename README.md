@@ -1,9 +1,9 @@
 <div align="center">
 <!-- Замени YOUR_USERNAME на свой ник GitHub во всех ссылках ниже -->
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:7a1f2b&height=220&section=header&text=Hi,%20I'm%20%D0%94%D0%B8%D0%BD%D0%B0&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Designer%20%7C%20Founder%20%7C%20Builder&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:7a1f2b&height=240&section=header&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20%D0%94%D0%B8%D0%BD%D0%B0&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Product%20Designer%20%7C%20Founder%20%7C%20Builder&descAlignY=65&descSize=20" width="100%"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=B08968&center=true&vCenter=true&width=600&lines=Founder+%40+Chaosuty+%E2%80%94+beauty-tech+CRM;Founder+%40+NexuHub+%2F+NEXU;Product+Designer+%40+Olmat;HSE+%E2%80%94+Design+%26+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Founder+%40+Chaosuty+%E2%80%94+beauty-tech+CRM;Founder+%40+NexuHub+%2F+NEXU;Product+Designer+%40+Olmat;HSE+%E2%80%94+Design+%26+Programming" alt="Typing SVG" />
 </a>
 
 </div>
